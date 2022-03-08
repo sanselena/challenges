@@ -1,6 +1,5 @@
 import Nat8 "mo:base/Nat8";
-import Nat "mo:base/Nat"; /*i have no idea why this gives an error or if it's
-simply about my system but in the end it works*/
+import Nat "mo:base/Nat"; 
 
 actor {
 
